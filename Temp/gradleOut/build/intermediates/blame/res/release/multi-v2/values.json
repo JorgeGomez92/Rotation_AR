@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Unreal Engine\\Plane\\Temp\\gradleOut\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\armgo\\Downloads\\Rotation_AR\\Temp\\gradleOut\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "D:\\Unreal Engine\\Plane\\Temp\\gradleOut\\src\\main\\res\\values\\strings.xml",
+                    "source": "C:\\Users\\armgo\\Downloads\\Rotation_AR\\Temp\\gradleOut\\src\\main\\res\\values\\strings.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "2",
@@ -21,7 +21,24 @@
                     }
                 },
                 {
-                    "source": "D:\\Unreal Engine\\Plane\\Temp\\gradleOut\\src\\main\\res\\values\\styles.xml",
+                    "source": "C:\\Users\\armgo\\.gradle\\caches\\transforms-1\\files-1.1\\arcore_client.aar\\b735661a95dccafe3d5fbc3419698932\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "161,208,259,360,461",
+                        "endColumns": "46,50,100,100,62",
+                        "endOffsets": "207,258,359,460,523"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,106,161,266,371",
+                        "endColumns": "50,54,104,104,66",
+                        "endOffsets": "101,156,261,366,433"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\armgo\\Downloads\\Rotation_AR\\Temp\\gradleOut\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "5,2,7",
                         "startColumns": "0,0,0",
@@ -37,23 +54,6 @@
                         "endLines": "9,12,16",
                         "endColumns": "8,8,8",
                         "endOffsets": "573,711,938"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\armgo\\.gradle\\caches\\transforms-1\\files-1.1\\arcore_client.aar\\543ae62b1d0ad2062d9bbc8ca07e5e06\\res\\values\\values.xml",
-                    "from": {
-                        "startLines": "4,5,6,7,8",
-                        "startColumns": "0,0,0,0,0",
-                        "startOffsets": "161,208,259,360,461",
-                        "endColumns": "46,50,100,100,62",
-                        "endOffsets": "207,258,359,460,523"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "55,106,161,266,371",
-                        "endColumns": "50,54,104,104,66",
-                        "endOffsets": "101,156,261,366,433"
                     }
                 }
             ]

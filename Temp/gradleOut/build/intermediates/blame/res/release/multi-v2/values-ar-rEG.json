@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Unreal Engine\\Plane\\Temp\\gradleOut\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ar-rEG\\values-ar-rEG.xml",
+            "outputFile": "C:\\Users\\armgo\\Downloads\\Rotation_AR\\Temp\\gradleOut\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ar-rEG\\values-ar-rEG.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\armgo\\.gradle\\caches\\transforms-1\\files-1.1\\arcore_client.aar\\543ae62b1d0ad2062d9bbc8ca07e5e06\\res\\values-ar-rEG\\values.xml",
+                    "source": "C:\\Users\\armgo\\.gradle\\caches\\transforms-1\\files-1.1\\arcore_client.aar\\b735661a95dccafe3d5fbc3419698932\\res\\values-ar-rEG\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8",
                         "startColumns": "0,0,0,0,0",
